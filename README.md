@@ -1,7 +1,9 @@
 ## Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
 
 **Date:** 14-10-2025
+
 **Name:** Balaji A
+
 **Register no.:** 212223040023
 
 ## Aim:
