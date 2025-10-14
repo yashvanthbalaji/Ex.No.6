@@ -63,7 +63,7 @@ The experiment relies on the principle of **output chaining**:
 4.  **Comparison:** The Python script extracts the `Score` and compares it to the $\mathbf{0.90}$ threshold.
 5.  **Output (Insight):** Based on the comparison, it prints the appropriate message (Pass or Flag).
 
-<img width="269" height="188" alt="image" src="https://github.com/user-attachments/assets/4142d32e-920d-4344-b0ad-dee740f48eb1" />
+<img width="1024" height="624" alt="image" src="https://github.com/user-attachments/assets/4142d32e-920d-4344-b0ad-dee740f48eb1" />
 
 
 -----
